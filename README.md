@@ -9,3 +9,11 @@ Initialized project `langchain-pinecone-rag-demo`
 
 `jupyter lab`
 
+
+## Run the notebook
+
+`uv sync`
+
+`source .venv/bin/activate`
+
+`jupyter lab`
